@@ -4,9 +4,14 @@
 ## Description:
 This is an API for a social network web application where users can share their thoughts, react to friends' thoughts, and create a friend list. It uses Express.js for routing, a MongoDB database, the Mongoose ODM, and native JavaScript Date object to format timestamps. The seed data is created using Insomnia.
 
+
+## Video Demonstration:
+[Video Demo](https://drive.google.com/file/d/1jBs5IOS4HBlog0ipH-uA3leHbF6omVLx/view)
+
 ## Table of Contents:
 - [Social Media API and MongoDB Backend](#social-media-api-and-mongodb-backend)
   - [Description:](#description)
+  - [Video Demonstration:](#video-demonstration)
   - [Table of Contents:](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
