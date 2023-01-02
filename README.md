@@ -10,6 +10,9 @@ This is an API for a social network web application where users can share their 
   - [Table of Contents:](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
+    - [Return Users:](#return-users)
+    - [Create User:](#create-user)
+    - [Add Friend:](#add-friend)
   - [Technology](#technology)
   - [Questions](#questions)
   - [Contributing](#contributing)
@@ -41,6 +44,15 @@ _________________
 _________________
 
 A user can utilize this API to create a new user with a valid username and email, add other users as friends, post "thoughts" as well as "reactions" to thoughts, update and delete thoughts and reactions, and delete friends.
+
+  ### Return Users:
+  ![Return Users](./assets/screenshots/SocialAPI-Calls.png)
+
+  ### Create User:
+  ![Create Users](./assets/screenshots/SocialAPI-CreateUser.png)
+
+  ### Add Friend:
+  ![Add Friend](./assets/screenshots/SocialAPI-AddFriend.png)
 
 ## Technology
 _________________
